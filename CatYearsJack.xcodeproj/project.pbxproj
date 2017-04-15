@@ -12,6 +12,8 @@
 		FA7D0F411EA1DFCD00A7B9EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA7D0F3F1EA1DFCD00A7B9EF /* Main.storyboard */; };
 		FA7D0F431EA1DFCD00A7B9EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA7D0F421EA1DFCD00A7B9EF /* Assets.xcassets */; };
 		FA7D0F461EA1DFCD00A7B9EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA7D0F441EA1DFCD00A7B9EF /* LaunchScreen.storyboard */; };
+		FA7D0F4F1EA1E1E000A7B9EF /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = FA7D0F4D1EA1E1E000A7B9EF /* cat.png */; };
+		FA7D0F501EA1E1E000A7B9EF /* hedgehog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA7D0F4E1EA1E1E000A7B9EF /* hedgehog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FA7D0F421EA1DFCD00A7B9EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA7D0F451EA1DFCD00A7B9EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA7D0F471EA1DFCD00A7B9EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA7D0F4D1EA1E1E000A7B9EF /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
+		FA7D0F4E1EA1E1E000A7B9EF /* hedgehog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hedgehog.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				FA7D0F3D1EA1DFCD00A7B9EF /* ViewController.swift */,
 				FA7D0F3F1EA1DFCD00A7B9EF /* Main.storyboard */,
 				FA7D0F421EA1DFCD00A7B9EF /* Assets.xcassets */,
+				FA7D0F4D1EA1E1E000A7B9EF /* cat.png */,
+				FA7D0F4E1EA1E1E000A7B9EF /* hedgehog.jpg */,
 				FA7D0F441EA1DFCD00A7B9EF /* LaunchScreen.storyboard */,
 				FA7D0F471EA1DFCD00A7B9EF /* Info.plist */,
 			);
@@ -126,6 +132,8 @@
 			files = (
 				FA7D0F461EA1DFCD00A7B9EF /* LaunchScreen.storyboard in Resources */,
 				FA7D0F431EA1DFCD00A7B9EF /* Assets.xcassets in Resources */,
+				FA7D0F501EA1E1E000A7B9EF /* hedgehog.jpg in Resources */,
+				FA7D0F4F1EA1E1E000A7B9EF /* cat.png in Resources */,
 				FA7D0F411EA1DFCD00A7B9EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
